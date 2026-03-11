@@ -1,0 +1,6 @@
+##fileformat=VCFv4.2
+##GATK HaplotypeCaller v4.4.0
+##reference=hg38_chr17
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	TUMOR
+chr17	7668903	.	A	T	.	PASS	.	GT	0/1
+chr17	7669403	.	C	G	.	PASS	.	GT	0/1
